@@ -1,4 +1,4 @@
-#Medical-Data-Analysis-
+# Medical-Data-Analysis-
 🚀 SQL Project Showcase: Unveiling Medical Data Insights! 🏥
 
 Thrilled to share the journey of my recent SQL project, where I delved into a comprehensive analysis of medical data. The ability to uncover meaningful insights from vast datasets is a testament to the incredible capabilities of SQL. Here's a glimpse into the project:
